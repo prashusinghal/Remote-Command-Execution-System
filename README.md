@@ -8,19 +8,29 @@ The system demonstrates strong concepts of network programming, concurrency, int
 🚀 Features
 
 Supports multiple clients at the same time
+
 Real-time remote command execution
+
 Threaded server architecture for concurrency
+
 Command output returned reliably to each client
+
 TCP-based communication for stability
+
 Lightweight, extensible, and easy to deploy
 
 🧠 Technical Concepts
 
 Python Socket Programming (TCP)
+
 Multi-threading
+
 Concurrency Handling
+
 Process Execution (subprocess module)
+
 Networking & Communication Protocols
+
 Error Handling and Stream Management
 
 ▶️ How to Run
